@@ -1,0 +1,2 @@
+class Celsius
+	def initi
